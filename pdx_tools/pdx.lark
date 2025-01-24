@@ -1,0 +1,88 @@
+?start                      : cmd
+%import common.NUMBER
+%import common.CNAME
+cmd                         : equipment_modules | comment_out | limit
+limit                       : "limit" "=" "{" (limit_property)* "}"
+limit_property              : has_dlc
+has_dlc                     : "has_dlc" "=" dlc_name
+dlc_name                    : CNAME
+comment_out                 : "#" (comment) "\n"
+comment                     : CNAME
+equipment_modules           : "equipment_modules" "=" "{" (modules_inner)* "}"
+modules_inner               : equipment_module | comment_out | limit
+equipment_module            : modulename "=" "{" (equipment_module_property)* "}"
+modulename                  : CNAME
+equipment_module_property   : comment_out | abbreviation | category | gui_category | sfx | add_stats | multiply_stats | add_average_stats | can_convert_from | critical_parts | forbid_module_categories | build_cost_resources | manpower
+abbreviation                : "abbreviation" "=" /".*"/
+category                    : "category" "=" /".*"/
+gui_category                : "gui_category" "=" /".*"/
+sfx                         : "sfx" "=" /".*"/
+add_stats                   : "add_stats" "=" "{" (add_stats_property)* "}"
+add_stats_property          : comment_out | build_cost_ic | lend_lease_cost | reliability | maximum_speed | defense | breakthrough | hardness | armor_value | soft_attack | hard_attack | ap_attack | air_attack | lend_lease_cost | build_cost_ic  | manpower  | can_license  | is_convertable  | reliability  | maximum_speed  | soft_attack  | hard_attack  | air_attack  | ap_attack  | breakthrough  | defense  | max_strength  | armor_value  | hardness  | entrenchment  | recon  | naval_speed  | fire_range  | lg_armor_piercing  | lg_attack  | hg_armor_piercing  | hg_attack  | torpedo_attack  | anti_air_attack  | shore_bombardment  | evasion  | surface_detection  | sub_attack  | sub_detection  | surface_visibility  | sub_visibility  | naval_range  | port_capacity_usage  | search_and_destroy_coordination  | convoy_raiding_coordination  | air_attack  | air_defence  | air_range  | air_agility  | air_ground_attack  | air_bombing  | air_superiority  | naval_strike_attack  | naval_strike_targetting  | carrier_size  | default_carrier_composition_weight  | carrier_capable
+build_cost_ic               : "build_cost_ic" "=" /".*"/
+lend_lease_cost             : "lend_lease_cost" "=" /".*"/
+reliability                 : "reliability" "=" /".*"/
+maximum_speed               : "maximum_speed" "=" /".*"/
+defense                     : "defense" "=" /".*"/
+breakthrough                : "breakthrough" "=" /".*"/
+hardness                    : "hardness" "=" /".*"/
+armor_value                 : "armor_value" "=" /".*"/
+soft_attack                 : "soft_attack" "=" /".*"/
+hard_attack                 : "hard_attack" "=" /".*"/
+ap_attack                   : "ap_attack" "=" /".*"/
+air_attack                  : "air_attack" "=" /".*"/
+max_strength                : "max_strength" "=" /".*"/
+entrenchment                : "entrenchment" "=" /".*"/
+recon                       : "recon" "=" /".*"/
+naval_speed                 : "naval_speed" "=" /".*"/
+fire_range                  : "fire_range" "=" /".*"/
+lg_armor_piercing           : "lg_armor_piercing" "=" /".*"/
+lg_attack                   : "lg_attack" "=" /".*"/
+hg_armor_piercing           : "hg_armor_piercing" "=" /".*"/
+hg_attack                   : "hg_attack" "=" /".*"/
+torpedo_attack              : "torpedo_attack" "=" /".*"/
+anti_air_attack             : "anti_air_attack" "=" /".*"/
+shore_bombardment           : "shore_bombardment" "=" /".*"/
+evasion                     : "evasion" "=" /".*"/
+surface_detection           : "surface_detection" "=" /".*"/
+sub_attack                  : "sub_attack" "=" /".*"/
+sub_detection               : "sub_detection" "=" /".*"/
+surface_visibility          : "surface_visibility" "=" /".*"/
+sub_visibility              : "sub_visibility" "=" /".*"/
+naval_range                 : "naval_range" "=" /".*"/
+port_capacity_usage         : "port_capacity_usage" "=" /".*"/
+search_and_destroy_coordination : "search_and_destroy_coordination" "=" /".*"/
+convoy_raiding_coordination : "convoy_raiding_coordination" "=" /".*"/
+air_defence                 : "air_defence" "=" /".*"/
+air_range                   : "air_range" "=" /".*"/
+air_agility                 : "air_agility" "=" /".*"/
+air_ground_attack           : "air_ground_attack" "=" /".*"/
+air_bombing                 : "air_bombing" "=" /".*"/
+air_superiority             : "air_superiority" "=" /".*"/
+naval_strike_attack         : "naval_strike_attack" "=" /".*"/
+naval_strike_targetting     : "naval_strike_targetting" "=" /".*"/
+carrier_size                : "carrier_size" "=" /".*"/
+default_carrier_composition_weight : "default_carrier_composition_weight" "=" /".*"/
+carrier_capable             : "carrier_capable" "=" /".*"/
+multiply_stats              : "multiply_stats" "=" "{" (multiply_stats_property)* "}"
+multiply_stats_property     : comment_out | build_cost_ic | lend_lease_cost | reliability | maximum_speed | defense | breakthrough | hardness | armor_value | soft_attack | hard_attack | ap_attack | air_attack | lend_lease_cost | build_cost_ic  | manpower  | can_license  | is_convertable  | reliability  | maximum_speed  | soft_attack  | hard_attack  | air_attack  | ap_attack  | breakthrough  | defense  | max_strength  | armor_value  | hardness  | entrenchment  | recon  | naval_speed  | fire_range  | lg_armor_piercing  | lg_attack  | hg_armor_piercing  | hg_attack  | torpedo_attack  | anti_air_attack  | shore_bombardment  | evasion  | surface_detection  | sub_attack  | sub_detection  | surface_visibility  | sub_visibility  | naval_range  | port_capacity_usage  | search_and_destroy_coordination  | convoy_raiding_coordination  | air_defence  | air_range  | air_agility  | air_ground_attack  | air_bombing  | air_superiority  | naval_strike_attack  | naval_strike_targetting  | carrier_size  | default_carrier_composition_weight  | carrier_capable
+add_average_stats           : "add_average_stats" "=" "{" (add_average_stats_property)* "}"
+add_average_stats_property  : comment_out | build_cost_ic | lend_lease_cost | reliability | maximum_speed | defense | breakthrough | hardness | armor_value | soft_attack | hard_attack | ap_attack | air_attack | lend_lease_cost | build_cost_ic  | manpower  | can_license  | is_convertable  | reliability  | maximum_speed  | soft_attack  | hard_attack  | air_attack  | ap_attack  | breakthrough  | defense  | max_strength  | armor_value  | hardness  | entrenchment  | recon  | naval_speed  | fire_range  | lg_armor_piercing  | lg_attack  | hg_armor_piercing  | hg_attack  | torpedo_attack  | anti_air_attack  | shore_bombardment  | evasion  | surface_detection  | sub_attack  | sub_detection  | surface_visibility  | sub_visibility  | naval_range  | port_capacity_usage  | search_and_destroy_coordination  | convoy_raiding_coordination  | air_defence  | air_range  | air_agility  | air_ground_attack  | air_bombing  | air_superiority  | naval_strike_attack  | naval_strike_targetting  | carrier_size  | default_carrier_composition_weight  | carrier_capable
+can_convert_from            : "can_convert_from" "=" "{" (can_convert_from_property)* "}"
+can_convert_from_property   : comment_out | module_category | module | convert_cost_ic
+module_category             : "module_category" "=" /".*"/
+module                      : "module" "=" /".*"/
+convert_cost_ic             : "convert_cost_ic" "=" /".*"/
+critical_parts              : "critical_parts" "=" "{" (critical_parts_property)* "}"
+critical_parts_property     : CNAME
+forbid_module_categories    : "forbid_module_categories" "=" "{" (forbid_module_categories_property)* "}"
+forbid_module_categories_property : CNAME
+build_cost_resources        : "build_cost_resources" "=" "{" (build_cost_resources_property)* "}"
+build_cost_resources_property : comment_out | steel | oil | rubber | aluminum | tungsten | chromium
+steel                       : "steel" "=" /".*"/
+oil                         : "oil" "=" /".*"/
+rubber                      : "rubber" "=" /".*"/
+aluminum                    : "aluminum" "=" /".*"/
+tungsten                    : "tungsten" "=" /".*"/
+chromium                    : "chromium" "=" /".*"/
+manpower                    : "manpower" "=" /".*"/

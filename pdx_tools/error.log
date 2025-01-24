@@ -1,0 +1,229 @@
+[19:04:06][no_game_date][dlc.cpp:227]: Invalid supported_version in  file: mod/ugc_2868657972.mod line: 6
+[19:04:06][no_game_date][dlc.cpp:227]: Invalid supported_version in  file: mod/ugc_786868637.mod line: 8
+[19:04:10][no_game_date][pdx_audio.cpp:966]: Sound effect with name 'global_airplane_light_close_layer' already added
+[19:04:10][no_game_date][pdx_audio.cpp:1130]: SoundEffect 'global_airplane_light_close_layer' already has category 'ssw_3dmodel_sound', old category will be overwritten
+[19:04:58][no_game_date][pdx_entity.cpp:2171]: Duplicate of JAP_mechanized_entity added to entity system
+[19:04:59][no_game_date][pdx_entity.cpp:2171]: Duplicate of USA_light_armor_0_entity added to entity system
+[19:04:59][no_game_date][pdx_entity.cpp:2171]: Duplicate of USA_medium_armor_0_entity added to entity system
+[19:04:59][no_game_date][pdx_entity.cpp:2171]: Duplicate of USA_heavy_armor_0_entity added to entity system
+[19:04:59][no_game_date][pdx_entity.cpp:2171]: Duplicate of USA_super_heavy_armor_entity added to entity system
+[19:04:59][no_game_date][pdx_entity.cpp:2171]: Duplicate of USA_modern_armor_entity added to entity system
+[19:05:01][no_game_date][scopedvariable.cpp:557]: sp:sp_air_bouncing_bomb does not match any Special Project in database
+[19:05:02][no_game_date][persistent.cpp:68]: Error: "Expected 'default', a continent name or a country tag: RAJ, near line: 1282" in file: "gfx/interface/equipmentdesigner/graphic_db/02_allied_tank_icons.txt" near line: 1514
+[19:05:02][no_game_date][persistent.cpp:68]: Error: "Expected 'default', a continent name or a country tag: RAJ, near line: 114" in file: "gfx/interface/equipmentdesigner/graphic_db/06_british_tank_icons.txt" near line: 233
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_plane_fighter_airframe_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_plane_fighter_airframe_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_plane_fighter_airframe_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_0
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_0
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_0
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: heavy_tank_destroyer_chassis
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_2
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: light_tank_destroyer_chassis_3
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_1
+[19:05:02][no_game_date][equipment_graphic_database.cpp:93]: Unknown equipment type: medium_tank_destroyer_chassis_2
+[19:05:04][no_game_date][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/characters/large/PAK/Portrait_Pakistan_Malik_Meraj_Khalid.png
+[19:05:04][no_game_date][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/characters/large/PAK/Portrait_Pakistan_Malik_Meraj_Khalid.png'
+[19:05:09][no_game_date][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/characters/small/SAF/idea_SAF_jan_bosman_bester.png
+[19:05:09][no_game_date][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/characters/small/SAF/idea_SAF_jan_bosman_bester.png'
+[19:05:15][no_game_date][scopedvariable.cpp:500]: empty variable name
+[19:05:25][no_game_date][scopedvariable.cpp:500]: empty variable name
+[19:05:26][no_game_date][gameapplication.cpp:810]: The game has loc key collisions. Check logs/text.log for more details
+[19:05:34][1950.01.01.12][statehistory.cpp:292]: State Error: Trying to set invalid province building "bunker" to province #4975.
+[19:05:34][1950.01.01.12][statehistory.cpp:292]: State Error: Trying to set invalid province building "land_facility" to province #9534.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:281: create_equipment_variant': 'Ju88' - Modular type 'medium_plane_cas_airframe_2' appears to not have been unlocked for MAF as no chassis variant exists. Unlocked the tech before creating any variants to avoid bugs.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:1359: create_equipment_variant': 'T5M Syousei' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:1384: create_equipment_variant': 'R2Z Keiun Kai' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:1596: create_equipment_variant': 'D4Y3 Suisei Kai' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:1621: create_equipment_variant': 'B6N2a Tenzan Kai' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:1647: create_equipment_variant': 'B5N3-Q Yuzan Kai' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:721: create_equipment_variant': 'Ki-32 kai' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:35][1950.01.01.12][equipment_effects.cpp:808]: 'common/scripted_effects/_ssw_variants_air.txt:825: create_equipment_variant': 'D4Y3 Suisei' - Equipment category differs from that of the type. This indicates a mismatch between the role/type and installed modules.
+[19:05:36][1950.01.01.12][equipmentpool.cpp:1369]: Country "ENG" does not have any equipment variant for type "medium_tank_chassis_2" version 0 created by "ENG".
+[19:05:36][1950.01.01.12][equipmentpool.cpp:1369]: Country "ENG" does not have any equipment variant for type "medium_tank_chassis_2" version 0 created by "ENG".
+[19:05:46][1950.01.01.12][mapbuildings.cpp:1642]: Building military_facility doesn't have an entity
+[19:05:46][1950.01.01.12][mapbuildings.cpp:1642]: Building steel_mill doesn't have an entity
+[19:05:50][1950.01.01.12][flagtextureatlas.cpp:524]: Error loading flag for country SRV : Ideology progressive_socialism : Path gfx/flags/ : Warning slow to read format - Consider using 32bpp instead of 24bpp
+[19:05:50][1950.01.01.12][flagtextureatlas.cpp:524]: Error loading flag for country SRV : Ideology progressive_socialism : Path gfx/flags/medium/ : Warning slow to read format - Consider using 32bpp instead of 24bpp
+[19:05:50][1950.01.01.12][flagtextureatlas.cpp:524]: Error loading flag for country SRV : Ideology progressive_socialism : Path gfx/flags/small/ : Warning slow to read format - Consider using 32bpp instead of 24bpp
+[19:06:12][1950.01.01.12][equipmentpool.cpp:1499]: Trying to fill variant where none exist from type: medium_tank_chassis belonging to インド共和国
+[19:06:12][1950.01.01.12][equipmentpool.cpp:1499]: Trying to fill variant where none exist from type: motorized_equipment belonging to インド共和国
+[19:06:12][1950.01.01.12][unit.cpp:3609]: INA 1st Armoured Division ( IND ) unit in 15674 has locked equipment requirements: medium_tank_chassis, motorized_equipment, , needed by subunit(s) in template "Armoured Division".
+[19:06:12][1950.01.01.12][equipmentpool.cpp:1499]: Trying to fill variant where none exist from type: medium_tank_chassis belonging to インド共和国
+[19:06:12][1950.01.01.12][equipmentpool.cpp:1499]: Trying to fill variant where none exist from type: motorized_equipment belonging to インド共和国
+[19:06:12][1950.01.01.12][unit.cpp:3609]: INA 2nd Armoured Division ( IND ) unit in 1980 has locked equipment requirements: medium_tank_chassis, motorized_equipment, , needed by subunit(s) in template "Armoured Division".
+[19:06:12][1950.01.01.12][equipmentvariant.cpp:1023]: Country "FRA" does not have any equipment variant for type "light_tank_chassis_2" version_name "FCM 36" created by "FRA".
+[19:06:14][1950.01.01.12][industrial_organisation.cpp:517]: in history files, MIO GER_Opel has been incorrectly attached to a production line with 'Sd.Kfz.11'. reason=[Equipment no match]
+[19:06:14][1950.01.01.12][industrial_organisation.cpp:517]: in history files, MIO GER_Siemens_materiel_manufacturer has been incorrectly attached to a production line with '野戦砲 II'. reason=[Equipment no match]
+[19:06:18][1950.01.01.12][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/armor_tech/land_cruiser_chassis_1.png
+[19:06:18][1950.01.01.12][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/armor_tech/land_cruiser_chassis_1.png'
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_1 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_2 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_3 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_4 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_5 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_6 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_7 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_1 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_2 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_3 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_4 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_5 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_6 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:18][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech engine_tech_7 (gasolene_engine_tech_1_tree and diesel_engine_tech_1_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1948 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1951 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1954 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1957 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1960 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1965 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1970 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1975 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1948 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1951 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1954 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1957 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1960 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1965 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1970 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1975 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1948 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1951 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1954 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1957 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1960 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1965 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1970 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech small_airframe_1975 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1948 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1951 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1954 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1957 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1960 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1965 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1970 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech medium_airframe_1975 (medium_airframe_1940_tree and small_airframe_1940_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech basic_light_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech improved_light_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech advanced_light_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech light_cruiser_1965 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech light_cruiser_1975 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech basic_heavy_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech improved_heavy_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech advanced_heavy_cruiser (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech heavy_cruiser_1965 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech heavy_cruiser_1975 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech heavy_cruiser_nuke_1957 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech heavy_cruiser_nuke_1965 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:19][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech heavy_cruiser_nuke_1975 (early_light_cruiser_tree and early_heavy_cruiser_tree)
+[19:06:21][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech EM_backhand_blow (EM_mobile_defense_tree and EM_elastic_defense_tree)
+[19:06:21][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech DA_delay (DA_active_defense_tree and DA_defense_in_depth_tree)
+[19:06:21][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech EM_backhand_blow (EM_mobile_defense_tree and EM_elastic_defense_tree)
+[19:06:21][1950.01.01.12][countrytechtreeview.cpp:727]: Found multiple potential grid boxes for tech DA_delay (DA_active_defense_tree and DA_defense_in_depth_tree)
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:27][1950.01.01.12][graphics.cpp:1288]: No font with name
+[19:06:31][1950.01.01.12][effectimplementation.cpp:16566]: Invalid index to remove: common/scripted_effects/ssw_RHO.txt:716: remove_from_array
+[19:06:31][1950.01.01.12][effectimplementation.cpp:16566]: Invalid index to remove: common/scripted_effects/ssw_RHO.txt:716: remove_from_array
+[19:06:31][1950.01.01.12][effectimplementation.cpp:16566]: Invalid index to remove: common/scripted_effects/ssw_RHO.txt:716: remove_from_array
+[19:06:31][1950.01.01.12][effectimplementation.cpp:16566]: Invalid index to remove: common/scripted_effects/ssw_RHO.txt:716: remove_from_array
+[19:06:41][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ships/ship_hull_cruiser.gui (line 23 ): Could not find "mid_3_custom_slot" in window module_slots
+[19:06:41][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ships/ship_hull_cruiser.gui (line 23 ): Could not find "mid_3_custom_slot" in window module_slots
+[19:07:31][1950.01.01.12][equipmentblueprintwindow.cpp:127]: Failed to find equipment designer module window for equipment module slot.
+	File: "interface/equipmentdesigner/ship/ship_hull_carrier_3.gui", Line: 842
+	Module Slot: "mid_2_custom_slot"
+Tried the following names:
+	"ship_dp_light_batteryx4"
+	"ship_dp_light_batteryx4"
+	"dp_ship_light_battery_secondaries"
+[19:07:32][1950.01.01.12][equipmentblueprintwindow.cpp:127]: Failed to find equipment designer module window for equipment module slot.
+	File: "interface/equipmentdesigner/ship/ship_hull_carrier_3.gui", Line: 842
+	Module Slot: "mid_2_custom_slot"
+Tried the following names:
+	"ship_dp_light_batteryx4"
+	"ship_dp_light_batteryx4"
+	"dp_ship_light_battery_secondaries"
+[19:07:33][1950.01.01.12][equipmentblueprintwindow.cpp:127]: Failed to find equipment designer module window for equipment module slot.
+	File: "interface/equipmentdesigner/ship/ship_hull_carrier_3.gui", Line: 842
+	Module Slot: "mid_2_custom_slot"
+Tried the following names:
+	"ship_dp_light_batteryx4"
+	"ship_dp_light_batteryx4"
+	"dp_ship_light_battery_secondaries"
+[19:08:47][1950.01.01.12][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/naval_tech/hull/ship_hull_wooden_hulled_heavy.png
+[19:08:47][1950.01.01.12][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/naval_tech/hull/ship_hull_wooden_hulled_heavy.png'
+[19:09:06][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ships/ship_hull_cruiser.gui (line 23 ): Could not find "mid_3_custom_slot" in window module_slots
+[19:09:06][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ships/ship_hull_cruiser.gui (line 23 ): Could not find "mid_3_custom_slot" in window module_slots
+[19:09:32][1950.01.01.12][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/equipmentdesigner/topviews/super_heavy_hull_fixed_secondaries.dds
+[19:09:32][1950.01.01.12][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/equipmentdesigner/topviews/super_heavy_hull_fixed_secondaries.dds'
+[19:09:33][1950.01.01.12][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/equipmentdesigner/super_heavy_hull_fixed_secondaries@highlight.dds
+[19:09:33][1950.01.01.12][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/equipmentdesigner/super_heavy_hull_fixed_secondaries@highlight.dds'
+[19:10:05][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ship/ship_hull_submarine_3.gui (line 23 ): Could not find "fixed_ship_sub_snorkel_slot" in window module_slots
+[19:10:05][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ship/ship_hull_submarine_3.gui (line 23 ): Could not find "fixed_ship_radar_slot" in window module_slots
+[19:10:05][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ship/ship_hull_submarine_3.gui (line 23 ): Could not find "fixed_ship_sub_snorkel_slot" in window module_slots
+[19:10:05][1950.01.01.12][containerwindow.cpp:867]: interface/equipmentdesigner/ship/ship_hull_submarine_3.gui (line 23 ): Could not find "fixed_ship_radar_slot" in window module_slots
