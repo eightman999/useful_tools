@@ -24,7 +24,7 @@ def can_convert_from_module(module, cost):
     }
     return can_convert_from
 
-def create_module(module_name, category, abbreviation, sfx, critical_parts, can_convert_froms, add_average_stats, multiply_stats, add_stats):
+def create_module_n(module_name, category, abbreviation, sfx, critical_parts, can_convert_froms, add_average_stats, multiply_stats, add_stats):
     navy_module[module_name] = {
         "category": category,
         "abbreviation": abbreviation,

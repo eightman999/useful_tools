@@ -15,7 +15,8 @@ DOWNLOAD_URL = ""
 PYTHON_REQUIRES = ">=3.6"
 INSTALL_REQUIRES = [
     "pykakasi",
-    "scipy"
+    "scipy",
+    "lark"
 ]
 
 PACKAGES = [

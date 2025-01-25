@@ -1,4 +1,4 @@
-from scipy.special import math
+import math
 
 
 def significant_figures(number, n):
