@@ -132,4 +132,4 @@ equipment_modules = {
 parsed_data = parser.parse(sample_text)
 
 # 結果を表示
-# print(parsed_data)
+print(parsed_data)
