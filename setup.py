@@ -10,7 +10,7 @@ AUTHOR = "Eightman"
 AUTHOR_EMAIL = "eightman124@gmail.com"
 LICENSE = "GNU GPLv3"
 URL = ""
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DOWNLOAD_URL = ""
 PYTHON_REQUIRES = ">=3.6"
 INSTALL_REQUIRES = [
